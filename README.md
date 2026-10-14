@@ -15,3 +15,6 @@ This project explores customer behavior, product category performance, and logis
 - **Database / Querying**: SQLite, DBeaver
 - **Language**: SQL (Aggregations, JOIN`s, CASE statements, window/date functions)
 - **Version Control**: Git & GitHub
+
+
+Dataset sourced from the Olist Brazilian E-Commerce dataset on Kaggle
